@@ -1,5 +1,7 @@
 package org.alsa.hap;
 
+import com.hand.hap.account.dto.User;
+
 /**
  * @Created with IDEA
  * @author:longming
@@ -9,6 +11,6 @@ package org.alsa.hap;
  */
 public class Test {
 	public static void main(String[] args) {
-		User
+//		User
 	}
 }

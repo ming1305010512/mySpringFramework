@@ -22,4 +22,5 @@ dependencies {
     compile(project(":spring-context"))
     implementation name: 'hap-classes'
     compile group: 'org.mybatis', name: 'mybatis', version: '3.5.4'
+    compile group: 'com.mchange', name: 'c3p0', version: '0.9.5.5'
 }
